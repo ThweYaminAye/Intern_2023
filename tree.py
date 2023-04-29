@@ -35,6 +35,6 @@ for i in range(len(first)):
 
 for i in range(len(second)):
     tree = insertion(second[i], tree)
-#printing(tree)
+printing(tree)
 
 
